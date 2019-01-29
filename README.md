@@ -1,7 +1,7 @@
 # OpenA1200RTC
 OpenA1200RTC is an Open Hardware RTC module for the Amiga 1200.
 
-![Board](https://raw.githubusercontent.com/screwbreaker/OpenA1200ERC/master/doc/render-top.png)
+![Board](https://raw.githubusercontent.com/screwbreaker/OpenA1200RTC/master/doc/render-top.png)
 
 ### Summary
 This RTC circuit is actually used on other free projects like:
