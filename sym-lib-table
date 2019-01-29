@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name MSM6242B)(type Legacy)(uri ${KIPRJMOD}/libs/MSM6242B.lib)(options "")(descr ""))
+  (lib (name rescue)(type Legacy)(uri ${KIPRJMOD}/libs/rescue.lib)(options "")(descr ""))
+  (lib (name void)(type Legacy)(uri /home/francesco/Sviluppo/Elettronica/KiCad/project/screwbreaker/OpenA1200RTC/libs/void.lib)(options "")(descr ""))
+)
