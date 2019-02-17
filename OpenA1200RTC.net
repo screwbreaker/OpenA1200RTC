@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /home/francesco/Sviluppo/Elettronica/KiCad/project/screwbreaker/OpenA1200RTC/OpenA1200RTC.sch)
-    (date "sab 05 gen 2019 12:58:52 CET")
+    (date "dom 17 feb 2019 17:43:42 CET")
     (tool "Eeschema 5.0.2-bee76a0~70~ubuntu16.04.1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -31,7 +31,7 @@
       (tstamp 5C2D1582))
     (comp (ref D1)
       (value BAT54C)
-      (footprint TO_SOT_Packages_SMD:SOT-23)
+      (footprint TO_SOT_Packages_SMD:SOT-23_Handsoldering)
       (datasheet http://www.diodes.com/_files/datasheets/ds11005.pdf)
       (libsource (lib Diode) (part BAT54C) (description "dual schottky barrier diode, common cathode"))
       (sheetpath (names /) (tstamps /))
@@ -101,7 +101,7 @@
       (tstamp 5C2E60A0))
     (comp (ref V1)
       (value OSHW)
-      (footprint library:oshw)
+      (footprint library:OSHW)
       (libsource (lib void) (part Void) (description ""))
       (sheetpath (names /) (tstamps /))
       (tstamp 5C31A29A))
