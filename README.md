@@ -53,9 +53,9 @@ Since the project is open you are free to get the PCBs made by your preferred ma
 
 [![PCB from PCBWay](https://www.pcbway.com/project/img/images/frompcbway.png)](https://www.pcbway.com)
 
-You get cheap, professionally-made and good quality PCBs, that will help with this and [other projects](https://www.pcbway.com/project/member/shareproject/?bmbid=41100).
+You get cheap, professionally-made and good quality PCBs, that will help with this and [other projects](https://www.pcbway.com/project/shareproject/OpenA1200RTC.html). You won't even have to worry about the various PCB options, it's all pre-configured for you!
 
-Also, if you still have to register to that site, [you can use this link](https://www.pcbway.com/setinvite.aspx?inviteid=41100) to get some bonus initial credit (and some more to help the author of projects like this).
+Also, if you still have to register to that site, [you can use this link](https://www.pcbway.com/setinvite.aspx?inviteid=269036) to get some bonus initial credit (and some more to help the author of projects like this).
 
 Again, if you want to use another manufacturer, feel free to, don't feel obligated :).
 
